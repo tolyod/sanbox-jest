@@ -1,0 +1,28 @@
+{
+  "name": "jest-sandbox",
+  "version": "1.0.0",
+  "description": "jest framework testing sanbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolyod/sanbox-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "testing",
+    "node",
+    "npm",
+    "js",
+    "javascript"
+  ],
+  "author": "anatoliy.poloz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolyod/sanbox-jest/issues"
+  },
+  "homepage": "https://github.com/tolyod/sanbox-jest#readme"
+}
